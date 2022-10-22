@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+palpx.com	TRUE	/	FALSE	1999999999	PHPSESSID	v2756sr9gaisrb3t0a81oiae23
+

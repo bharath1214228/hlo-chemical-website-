@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Oct 2022 19:53:32 at https://palpx.com/?gclid=Cj0KCQjwhsmaBhCvARIsAIbEbH4LMTpg34Asz2NsNNlDd_sEDx8XUejoyNApiR8D9Q6pfHHrlQACcP0aAkshEALw_wcB +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://palpx.com/?gclid=Cj0KCQjwhsmaBhCvARIsAIbEbH4LMTpg34Asz2NsNNlDd_sEDx8XUejoyNApiR8D9Q6pfHHrlQACcP0aAkshEALw_wcB -O1 "C:\My Web Sites\htm" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:56:51	Error: 	Exit requested by shell or user
+19:56:53	Error: 	"Not Found" (404) at link https://palpx.com/assets/external/close-icon.svg (from https://palpx.com/wp-content/plugins/embed-calendly-scheduling/assets/css/widget.css?ver=5.4.12)
+19:56:53	Warning: 	Moved Permanently for https://palpx.com/?p=9
+19:56:53	Warning: 	File has moved from https://palpx.com/?p=9 to https://palpx.com/what-we-do/
+19:56:53	Warning: 	Moved Permanently for https://palpx.com/?p=2138
+19:56:53	Warning: 	File has moved from https://palpx.com/?p=2138 to https://palpx.com/what-we-do/artificial-intelligence/
+19:56:53	Warning: 	Moved Permanently for https://palpx.com/?p=2164
+19:56:53	Warning: 	File has moved from https://palpx.com/?p=2164 to https://palpx.com/what-we-do/ui-ux-design/
+19:56:53	Warning: 	Moved Permanently for https://palpx.com/?p=2033
+19:56:53	Warning: 	File has moved from https://palpx.com/?p=2033 to https://palpx.com/what-we-do/branding/
+19:56:53	Warning: 	Moved Permanently for https://palpx.com/?p=2157
+19:56:53	Warning: 	File has moved from https://palpx.com/?p=2157 to https://palpx.com/what-we-do/digital-marketing/
+19:56:53	Warning: 	Moved Permanently for https://palpx.com/?p=7
+19:56:53	Warning: 	File has moved from https://palpx.com/?p=7 to https://palpx.com/our-work/
+19:56:54	Error: 	Exit requested by shell or user
+19:56:54	Error: 	"" (-1) at link https://palpx.com/our-work/?product (from https://palpx.com/our-work/)
+19:56:54	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 22 seconds : 232 links scanned, 223 files written (86925527 bytes overall) [84019437 bytes received at 415937 bytes/sec], 85909323 bytes transferred using HTTP compression in 212 files, ratio 94%, 14.2 requests per connection
+(5 errors, 12 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

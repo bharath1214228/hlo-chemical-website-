@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Oct 2022 21:49:52 at https://palpx.com/?gclid=Cj0KCQjwhsmaBhCvARIsAIbEbH6VY3P3ZZcYg9B7ggd38C1mDtqCeIQNFfLO-FvtfVbScP-j4F1VzgsaAsznEALw_wcB +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://palpx.com/?gclid=Cj0KCQjwhsmaBhCvARIsAIbEbH6VY3P3ZZcYg9B7ggd38C1mDtqCeIQNFfLO-FvtfVbScP-j4F1VzgsaAsznEALw_wcB -O1 "C:\My Web Sites\bharath" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:53:44	Error: 	Exit requested by shell or user
+21:53:46	Error: 	"Not Found" (404) at link https://palpx.com/assets/external/close-icon.svg (from https://palpx.com/wp-content/plugins/embed-calendly-scheduling/assets/css/widget.css?ver=5.4.12)
+21:53:46	Warning: 	Moved Permanently for https://palpx.com/?p=9
+21:53:46	Warning: 	File has moved from https://palpx.com/?p=9 to https://palpx.com/what-we-do/
+21:53:47	Warning: 	Moved Permanently for https://palpx.com/?p=2138
+21:53:47	Warning: 	File has moved from https://palpx.com/?p=2138 to https://palpx.com/what-we-do/artificial-intelligence/
+21:53:47	Warning: 	Moved Permanently for https://palpx.com/?p=2164
+21:53:47	Warning: 	File has moved from https://palpx.com/?p=2164 to https://palpx.com/what-we-do/ui-ux-design/
+21:53:47	Warning: 	Moved Permanently for https://palpx.com/?p=2033
+21:53:47	Warning: 	File has moved from https://palpx.com/?p=2033 to https://palpx.com/what-we-do/branding/
+21:53:47	Warning: 	Moved Permanently for https://palpx.com/?p=2157
+21:53:47	Warning: 	File has moved from https://palpx.com/?p=2157 to https://palpx.com/what-we-do/digital-marketing/
+21:53:47	Warning: 	Moved Permanently for https://palpx.com/?p=7
+21:53:47	Warning: 	File has moved from https://palpx.com/?p=7 to https://palpx.com/our-work/
+21:53:48	Warning: 	Moved Permanently for https://palpx.com/?p=11
+21:53:48	Warning: 	File has moved from https://palpx.com/?p=11 to https://palpx.com/who-we-are/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 56 seconds : 237 links scanned, 228 files written (93322671 bytes overall) [89046265 bytes received at 377314 bytes/sec], 92306467 bytes transferred using HTTP compression in 217 files, ratio 95%, 12.1 requests per connection
+(2 errors, 14 warnings, 0 messages)
